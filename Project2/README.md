@@ -41,8 +41,8 @@ Singapore is the most stable market for consulting with the least risk whereas J
 [Table_BQ3.csv](csv/Table_BQ3.csv)
 
 **Chart**
-![PBIX File][charts/Project2_BQ3.pbix]
-![Chart 3][charts/Project1_BQ3.png]
+![PBIX File](charts/Project2_BQ3.pbix)
+![Chart 3](charts/Project1_BQ3.png)
 **Code**
 [Project2_4_Business_Question3.sql](code/Project2_4_Business_Question3.sql)
 
