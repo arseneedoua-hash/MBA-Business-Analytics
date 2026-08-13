@@ -1,5 +1,5 @@
-# MBA-Business-Analytics
-MBA Portfolio -SQL + Python + Business case Analysis
+# MBA-Business-Analytics- Project2
+MBA Portfolio -SQL + Business case Analysis
 
 ## Project 2: Sector Composition and Consulting Demand
 **Business question**
