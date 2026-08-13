@@ -13,7 +13,7 @@ Australia, Singapore, Japan and New Zealand
 [Table_BQ1.csv](csv/Table_BQ1.csv)
 [Table_BQ1_2.csv](csv/Table_BQ1_2.csv)
 **Code**
-[Project2_4_Business_Question1.sql](code/Project2_4_Business_Question1.sql)
+[SQL Query](code/Project2_4_Business_Question1.sql)
 **Chart**
 ![GDP Chart](charts/Project2_BQ1.png)
 **Key Finding**
@@ -25,7 +25,7 @@ Among those four countries, Japan has the highest total GDP with 4204490000000 d
 [Table_BQ2_2.csv](csv/Table_BQ2_2.csv)
 
 **Chart**
-![PBIX File](charts/Project2_BQ2.pbix)
+[Chart 3](charts/Project2_BQ2.pbix)
 ![Chart 1](charts/Project1_BQ2_1_2.png)
 ![Chart 2](charts/Project1_BQ2_2.png)
 **Code**
@@ -41,7 +41,7 @@ Singapore is the most stable market for consulting with the least risk whereas J
 [Table_BQ3.csv](csv/Table_BQ3.csv)
 
 **Chart**
-![PBIX File](charts/Project2_BQ3.pbix)
+[PBIX File](charts/Project2_BQ3.pbix)
 ![Chart 3](charts/Project1_BQ3.png)
 **Code**
 [Project2_4_Business_Question3.sql](code/Project2_4_Business_Question3.sql)
