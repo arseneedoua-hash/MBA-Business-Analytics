@@ -1,0 +1,52 @@
+COUNTRY,YEAR,PERCENTAGE_ACCESS_TO_ELECTRICITY,GAP_TO_ELECTRICITY_ACCESS,GAP_SEVERITY
+Tunisia,2020,100.0,0.0,Mild
+Seychelles,2020,100.0,0.0,Mild
+Egypt,2020,100.0,0.0,Mild
+Morocco,2020,100.0,0.0,Mild
+Algeria,2020,99.8,0.2,Mild
+Mauritius,2020,99.66,0.34,Mild
+Cape Verde,2020,94.16,5.84,Mild
+Gabon,2020,91.57,8.43,Mild
+Comoros,2020,86.74,13.26,Mild
+Ghana,2020,85.87,14.13,Mild
+South Africa,2020,84.39,15.61,Mild
+Eswatini,2020,79.73,20.27,Mild
+Botswana,2020,71.99,28.01,Moderate
+Kenya,2020,71.44,28.56,Moderate
+Senegal,2020,70.37,29.63,Moderate
+Cote d'Ivoire,2020,69.68,30.32,Moderate
+Equatorial Guinea,2020,66.75,33.25,Moderate
+Cameroon,2020,64.72,35.28,Moderate
+Gambia,2020,62.27,37.73,Moderate
+Namibia,2020,56.26,43.74,Moderate
+Nigeria,2020,55.4,44.6,Moderate
+Sudan,2020,55.39,44.61,Moderate
+Togo,2020,54.0,46.0,Moderate
+Zimbabwe,2020,52.75,47.25,Moderate
+Eritrea,2020,52.17,47.83,Moderate
+Ethiopia,2020,51.09,48.91,Moderate
+Mali,2020,50.56,49.44,Moderate
+Somalia,2020,49.73,50.27,Severe
+Congo,2020,49.52,50.48,Severe
+Lesotho,2020,47.35,52.65,Severe
+Mauritania,2020,47.35,52.65,Severe
+Angola,2020,46.89,53.11,Severe
+Rwanda,2020,46.6,53.4,Severe
+Guinea,2020,44.67,55.33,Severe
+Zambia,2020,44.52,55.48,Severe
+Uganda,2020,42.07,57.93,Severe
+Benin,2020,41.41,58.59,Severe
+Tanzania,2020,39.9,60.1,Severe
+Madagascar,2020,33.74,66.26,Severe
+Guinea-Bissau,2020,33.34,66.66,Severe
+Mozambique,2020,30.6,69.4,Severe
+Liberia,2020,27.53,72.47,Severe
+Sierra Leone,2020,26.2,73.8,Severe
+Niger,2020,19.25,80.75,Critical
+Democratic Republic of Congo,2020,19.1,80.9,Critical
+Burkina Faso,2020,18.96,81.04,Critical
+Central African Republic,2020,15.47,84.53,Critical
+Malawi,2020,14.87,85.13,Critical
+Burundi,2020,11.74,88.26,Critical
+Chad,2020,11.08,88.92,Critical
+South Sudan,2020,7.24,92.76,Critical
