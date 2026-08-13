@@ -37,7 +37,7 @@ Guinea-Bissau and Liberia have the fastest growth over the last decade at 455.6%
 
 ## Question 2: How has the African continent's average electricity access evolved decade by decade — and is the pace of improvement accelerating or slowing?
 **Data**
-[Table_Project_1_B3.csv](CSV/Table_Project_1_B3.csv)
+[Table_Project_1_B3.csv](CSV/Table_Project1_B3.csv)
 
 **Chart**
 ![Chart 4](Charts/Project1_B3.png)
