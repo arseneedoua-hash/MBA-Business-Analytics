@@ -6,7 +6,7 @@ improvement momentum and energy profile?
 
 ## Question 1 : Where does each African country stand today on electricity access — and how severe is the gap?
 **Data**
-[Tbusiness_question_1.csv](CSV/Tbusiness_question_1.csv)
+[Tbusiness_question_1.csv](CSV/TBusiness_question_1.csv)
 
 **Chart**
 ![Chart 1](Charts/Project1_BQ1.png)
