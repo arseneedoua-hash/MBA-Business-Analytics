@@ -1,5 +1,6 @@
-# MBA-Business-Analytics- Project2
+# MBA-Business-Analytics-
 MBA Portfolio -SQL + Business case Analysis
+
 ## Project 1:  African markets with the strongest electricity investment opportunity 
 **Business question**
 Which African markets present the strongest electricity investment opportunity based on current access gap, improvement momentum and energy profile?
