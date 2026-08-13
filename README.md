@@ -14,6 +14,8 @@ Australia, Singapore, Japan and New Zealand
 [Table_BQ1_2.csv]
 **Code**
 [Project2_4_Business_Question1.sql]
+**Chart**
+[Project2_BQ1.png]
 **Key Finding**
 Among those four countries, Japan has the highest total GDP with 4204490000000 dollars but over the Last decade, Singapore has the fastest Growth at 38,66 %.
 - - - - - - - - - - - - - -  - - - -- - - 
